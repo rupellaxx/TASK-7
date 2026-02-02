@@ -17,7 +17,7 @@ body {
 .location-link:hover,
 .location-link:focus {
   color: #e91e63;
-  text-decoration: underline wavy #e91e63 1px; 
+  text-decoration: none #e91e63 1px; 
 }
 
 .skill-badge {
